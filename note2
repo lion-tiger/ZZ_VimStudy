@@ -1,0 +1,29 @@
+20190127
+
+tips 5:
+
+:%s/content/copy/g
+
+vim 脚本
+
+.
+*
+/
+:set hls
+
+cwcopy<ESC>
+n
+.
+
+tips 6:
+.
+.范式
+一键移动 一键执行
+
+
+第一部分 模式
+vim 区分模式的用户界面   mode
+模式及模式切换
+chap2
+普通模式
+
